@@ -1,0 +1,6 @@
+
+services:
+  application:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
